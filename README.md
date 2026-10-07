@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @CH4NAN
-- 👀 I’m interested in front-end and back-end development, i like to create small programs for PC  
-- 🌱 I’m currently learning java, cotlin & english and everything that helps me solve my problems 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @CH4NAN 
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: he/him (cis)
 
 <!---
 CH4NAN/CH4NAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
