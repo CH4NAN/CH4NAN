@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CH4NAN 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Django
 - 😄 Pronouns: he/him (cis)
 
 <!---
